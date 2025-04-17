@@ -1,1 +1,1 @@
-Hello everyone , this 
+Hello everyone , this project is the analyse of Netflix dataset, your can see the dashboard that show the distribution of the movies and shows and an interactive dashboard .
